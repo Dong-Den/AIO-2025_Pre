@@ -1,0 +1,4 @@
+pip install pydantic[email]
+fastapi
+uvicorn
+pydantic
